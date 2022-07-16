@@ -13,6 +13,6 @@ The chart shows that there was a rise in total fares for every city type in late
 
 ## Summary:
 Threee business recommendations I would give are that:
-- Since there is a higher supply of drivers than jobs(total rides) in rural cities, it would be beneficial to try to find a way to maybe focus more on them or even incentivize drivers to work in rural areas where rides are almost twice larger then drivers.
-- If the CEO were willing to focus more on Urban cities, maybe having promos and more advertising could help, especially in the smaller cities with less riders where the average fare per driver tends to be super high. They can try to make the promos be more appealing to the specific target.
--Also from April to May the CEO could use more of the companys resources to advertise in Urban and Rural cities since those two seem to be on the decline while Suburban is rapidly increasing.
+1) Since there is a higher supply of drivers than jobs(total rides) in rural cities, it would be beneficial to try to find a way to maybe focus more on them or even incentivize drivers to work in rural areas where rides are almost twice larger then drivers.
+2) If the CEO were willing to focus more on Urban cities, maybe having promos and more advertising could help, especially in the smaller cities with less riders where the average fare per driver tends to be super high. They can try to make the promos be more appealing to the specific target.
+3) Also from April to May the CEO could use more of the companys resources to advertise in Urban and Rural cities since those two seem to be on the decline while Suburban is rapidly increasing.
