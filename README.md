@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 ## Overview of the analysis:
 The purpose of this analysis is to break down the data in order to be able to determine the total fares by city type. We would calculate the fare prices for each month and by the types of city such as rural, suburban, and urban to make a DataFrame. We used Matplotlib to make a final multiple-line graph with the data we organized. 
 
